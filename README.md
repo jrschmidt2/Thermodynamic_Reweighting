@@ -4,7 +4,7 @@ This repository contains supplementary materials for the paper:
 
 > **Evaluation of Thermodynamic Averages in a Phase Space with Overlapping Sub-domains**
 > Longyuan Zhang and J. R. Schmidt
-> JPCA, 2025
+> Journal, 2025
 > DOI
 
 ## **Repository Contents**
